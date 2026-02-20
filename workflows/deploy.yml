@@ -1,4 +1,4 @@
-name: TogglePage
+name: List
  
 on:
   push:

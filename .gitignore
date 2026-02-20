@@ -1,4 +1,5 @@
 .env
+dist
 node_modules
 INTERVIEW_PREP_DETAILED.md
 INTERVIEW_PREP.md
